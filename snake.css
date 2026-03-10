@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .body {
     background-color: #27081d;
     text-align: center;
@@ -47,6 +53,7 @@
     transform: translate(-50%, -50%);
     background: rgba(255, 255, 255, 0.9);
     padding: 20px;
+    gap: 4px;
     border-radius: 10px;
     display: none;
     flex-direction: column;
@@ -73,16 +80,4 @@
     align-items: center;
     position: absolute;
     top: 50%;
-}
-
-.menuButton {
-    font-family: 'Courier New', Courier, monospace;
-    background: green;
-    color: white;
-    font-size: 18px;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    margin: 10px;
 }
