@@ -1,4 +1,6 @@
-# Jogo snake clássico desenvolvido em HTML, CSS e JS puro.
+# SNAKE GAME
+
+### Jogo snake clássico desenvolvido em HTML, CSS e JS puro.
 
 ## Screenshot
 
