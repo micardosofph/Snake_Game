@@ -18,7 +18,11 @@
 - Contabilizar pontos
 - Tela de game over ao bater em uma parede ou no corpo da cobra
 
-## Como executar
+## Como testar
+
+Acesse o link do github pages do projeto: https://micardosofph.github.io/Snake_Game/game.html
+
+## Como fazer edições no código
 
 1. Clone o repositório
 
